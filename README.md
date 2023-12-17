@@ -6,7 +6,7 @@ Supports PHP >=8.1, for PHP 7.4 support use version 3.1.0
 
 ### Installation
 ```bash
-composer require chasdevs/avro-to-php
+composer require ozean12/avro-to-php
 ```
 
 ### Usage

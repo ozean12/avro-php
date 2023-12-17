@@ -1,6 +1,6 @@
 {
-    "name": "chasdevs/avro-to-php",
-    "description": "Compile Avro .avsc files into PHP.",
+    "name": "ozean12/avro-to-php",
+    "description": "Compile Avro .avsc files into PHP. Forked from chasdevs/avro-to-php",
     "type": "library",
     "license": "MIT",
     "support": {
